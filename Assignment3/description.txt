@@ -1,0 +1,7 @@
+Assignment3
+
+The goal of this assignment is to build an algorithm that can recognize clothes
+category from images. 
+
+The assignment is hosted on the Kaggle inClass platform:
+https://www.kaggle.com/c/ml1920-fashion-mnist

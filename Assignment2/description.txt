@@ -1,0 +1,7 @@
+Assignment2
+
+The goal of this assignment is to build an algorithm that can recognize cuisine from
+recipe ingredients. 
+
+The assignment is hosted on the Kaggle inClass platform:
+https://www.kaggle.com/t/ef17a5be520143e3899736143a0c3df3.

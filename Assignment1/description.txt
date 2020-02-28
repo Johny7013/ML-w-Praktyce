@@ -1,0 +1,8 @@
+Assignment 1 (bank marketing)
+
+The goal of this assignment is to build an algorithm to predict if the client will
+subscribe a term deposit.
+
+Assignment hosted at Kaggle InClass https://www.kaggle.com/t/2478529221824e37ad084f89495de027
+
+Data description: https://archive.ics.uci.edu/ml/datasets/bank+marketing
